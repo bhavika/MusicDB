@@ -34,14 +34,7 @@ Directory structure I am following:
       
 I want these in Excel to be written as 
 
-
-|ARTIST                                          ALBUM                  SONGS
-|Adele                                           19                               |               song1.mp3
-|                                                                                 |               song2.mp3
-|                                                21                               |              song1.mp3
-                                                                                  |              song2.mp3
-Savages                                         Silence Yourself                                Shut Up.mp3
-                                                                                                Husbands.mp3
+ARTIST                          ALBUM                               SONGS
 
 
 
