@@ -42,12 +42,7 @@ def getalbums(path):
 def writealbums():
     for albums in getalbums('.'):
         start_album_row = 3
-        start_track_row = 3
-        # start_artist_row = 3
-        # for a in artists:
-        #     start_column = 1
-        #     ws.cell(row=start_artist_row, column=start_column).value = str(a)
-        #     start_artist_row += 1
+
         for al in albums:
             start_column = 2
             ws.cell(row=start_album_row, column=start_column).value = str(al)
