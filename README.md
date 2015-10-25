@@ -7,7 +7,7 @@ I'm trying to automate this process.
 
 Directory structure I am following: 
 
-1.Subfolders may contain tracks
+1. Subfolders may contain tracks </br>
 2. Artist folders may contain tracks that are not contained in any album sub folder
   
 
